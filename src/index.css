@@ -1,7 +1,13 @@
 html, body {
-    background-color: black;
+    background-color:cadetblue;
     color: white;
     font-family: "Helvetica, Arial, , sans-serif";
     font-size: 1.3rem;
     padding: 70px;
+}
+
+button{
+    font-size: 1.3rem;
+    margin: 3px;
+    padding: 10px;
 }
